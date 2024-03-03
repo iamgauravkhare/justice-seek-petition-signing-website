@@ -61,6 +61,7 @@ body {
 
 .res-nav {
   display: none;
+  z-index: 100000;
 }
 
 #res-nav-trigger:checked + .res-nav {
