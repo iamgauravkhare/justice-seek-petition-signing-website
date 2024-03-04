@@ -121,6 +121,13 @@ li:hover::after {
   text-align: center;
 }
 
+.share-icon {
+  width: 30px;
+  background-color: black;
+  border-radius: 50%;
+  padding: 5px;
+}
+
 /* content-end */
 
 /* footer-start */
